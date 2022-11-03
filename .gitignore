@@ -153,3 +153,5 @@ Eafit.Bike.Repository/obj/Debug/netcoreapp3.1/Eafit.Bike.Repository.csproj.CoreC
 Eafit.Bike.Repository/obj/Debug/netcoreapp3.1/Eafit.Bike.Repository.dll
 Eafit.Bike.Repository/obj/Debug/netcoreapp3.1/Eafit.Bike.Repository.pdb
 Eafit.Bike.Repository/obj/project.nuget.cache
+*.v2
+*.1
